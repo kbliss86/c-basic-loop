@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-loop\c-basic-loops-2\bin\Debug\c-basic-loops-2.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-loop\c-basic-loops-2\bin\Debug\c-basic-loops-2.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-loop\c-basic-loops-2\bin\Debug\c-basic-loops-2.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-loop\c-basic-loops-2\obj\Debug\c-basic-loops-2.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-loop\c-basic-loops-2\obj\Debug\c-basic-loops-2.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-loop\c-basic-loops-2\obj\Debug\c-basic-loops-2.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-basic-loop\c-basic-loops-2\obj\Debug\c-basic-loops-2.pdb
